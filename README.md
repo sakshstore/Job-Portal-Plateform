@@ -1,8 +1,16 @@
 # Job-Portal-Plateform
 
 
-
 Following are the features for demo email aistore2030@gmail.com
+
+Job Portal, a professional Job Listing Solution that comes with almost all features needs to run a Job Portal. It’s developed for those people who want to start their Job Listing business.
+
+It’s a big sector and here today we keep our footprint on this industry with our Portal , a complete solution for the Vacancy business. here, Users can apply for any job relevant to their sector, and employers can post jobs for their needs. the employer has a subscription plan, before post any jobs employer needs to purchase a job posting plan and here site admin will earn money.
+
+Are you looking for a complete Job Listing solution for your business, then you are in the right place.  JobLab may assist you to handle unlimited user, employer, featured job, listing job, able to accept payment via cards, cryptos, and mobile money. ready-to-go solution, 
+
+It takes only a few minutes to set up your website with our system. we also here to provide you best support, installation, and customization if you need it. hurry up, get your copy and start your Job website.
+
 
 Highlighted Features
 – Comes with Job Seeker And Employer Panel.
